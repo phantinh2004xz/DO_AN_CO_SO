@@ -1,0 +1,34 @@
+/**
+Theme Name: WP Learn
+Theme URI: https://wordpress.org/themes/hocwp/
+Author: Nhóm 8
+Description: Theme đơn giản được tạo để demo các tạo 1 theme trên Wordpress
+Tags: basic, two-columns, post format
+Version: 1.00
+
+
+**/
+
+/* Định dạng cơ bản cho theme */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+footer {
+  background: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
