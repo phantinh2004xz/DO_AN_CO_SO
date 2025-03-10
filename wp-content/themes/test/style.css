@@ -1,0 +1,31 @@
+/*
+Theme Name: My Simple Theme
+Theme URI: https://example.com
+Author: Your Name
+Author URI: https://yourwebsite.com
+Description: Một theme WordPress đơn giản
+Version: 1.0
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: mytheme
+*/
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+  color: #333;
+}
+
+header {
+  background: #007bff;
+  padding: 15px;
+  color: #fff;
+  text-align: center;
+}
+
+footer {
+  background: #343a40;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  margin-top: 20px;
+}
